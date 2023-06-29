@@ -1,0 +1,43 @@
+Database: 'cool'
+
+
+Table structure for table 'cool'
+
+CREATE TABLE 'cool' (
+
+id int(11) NOT NULL,
+name varchar(255) NOT NULL,
+address varchar(255) NOT NULL,
+email varchar(255) NOT NULL,
+phone int(10), NOT NULL,
+password varchar(255) NOT NULL,
+ename varchar(255) NOT NULL,
+eno int(10)
+) 
+
+
+INSERT INTO 'cool' ('name','address','email','phone','password','ename','eno') VALUES
+('kamal','colombo','kama@gmail.com','0778972714','123','sunil','0754455857'),
+('suran','kottawa','sura@gmail.com','0778974874','456','arun','0754454757');
+
+
+
+Table structure for table 'cool1'
+
+
+CREATE TABLE 'cool1' (
+id int(11) NOT NULL,
+name varchar(255) NOT NULL,
+address varchar(255) NOT NULL,
+email varchar(255) NOT NULL,
+phone int(10) NOT NULL,
+password varchar(255) NOT NULL,
+V_brand varchar(255) NOT NULL,
+V_model varchar(255) NOT NULL,
+V_regno varchar(255) NOT NULL
+)
+
+
+INSERT INTO 'cool1' ('name','address','email','phone','password','V_brand','V_model','V_regno') VALUES
+('amal','homagama','ama@gmail.com','0712542548','254','TOYOTA','prius','ABA-4545'),
+('bimal','nugegoda','bima@gmail.com','0712544411','998','FORD','RAPTOR','ABC-4477');
