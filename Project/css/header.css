@@ -1,0 +1,78 @@
+* { margin: 0; padding: 0;} /*remove page margin &padding*/
+
+.wrapper{
+	margin: 0 auto;
+	width:1000px;
+}
+
+
+body{
+	background-image:url(nb.jpg); /* background image*/
+	background-repeat: no-repeat;/*stop the repeat image*/
+	background-attachment: fixed; /*make sure the entire element is always covered*/
+	background-size: cover;  /* backgroung image cover the entire element*/
+}
+
+.logo img{
+	width:200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.home{
+	
+	width: 1000px;
+}
+
+.home nav{
+	
+	background:none; /*home bar balck color background*/
+	text-align: center;  /*text aligh center*/
+	border-radius: 5px; /* home bar corners radius */
+	font-size: 17px;
+} /*home bar*/
+
+.home nav ul{
+	list-style: none;
+} /* remove home bar list style*/
+
+.home nav ul li{
+	display: inline; 
+}/* display home bar inline*/ 
+
+.home nav ul li a{
+	color: #fff;
+	text-transform: uppercase; /*use capital letters for home bar*/
+	margin:10px 20px 10px 20px; /*t,l,b,r margins*/
+	display: inline-block; /*display top & bottom bottom*/
+	text-decoration: none; /*remove underline links*/
+	font-family:arial;
+}
+
+.home nav ul li a:hover{
+	color: rgba(252,183,80);
+} /* color inside the home bar link*/
+
+.button {
+	height:35px;
+	width:300px;
+	color: #fff;/*registration name color*/
+	background: linear-gradient(135deg,#637383,#374049); /* change background color*/
+	outline: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left:20px;
+}
+
+.sign-in-button
+{
+    margin: 10px!important;
+    border: 2px solid white!important;
+    background-color: yellow!important;
+    padding: 10px 75px!important;
+    font-size: 20px!important;
+}

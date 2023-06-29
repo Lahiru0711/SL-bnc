@@ -1,0 +1,439 @@
+.home-col1{
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col1 h2{
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	border-radius: 10px;
+	background-color:transparent;
+	color :rgba(252,183,80); 
+
+}
+.home-col1 p{
+	color: #eee;
+	
+	float:right;
+	margin-top:100px;
+	margin-bottom: 100px;
+}
+.home-col1 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col1 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col1 button a{
+	color: #fff;
+}
+.home-col1 button a:hover{
+color:#1d18c4;
+}
+/*wheels*/
+.home-col2{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col2 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+}
+.home-col2 p{
+	float:right;
+	
+
+	color: #eee;
+	margin-top:100px;
+	margin-bottom: 100px;
+}
+.home-col2 img{
+	width: 225px;
+	height:225px;
+}
+.home-col2 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col2 button a{
+	color: #fff;
+}
+.home-col2 button a:hover{
+color:#1d18c4;
+}
+
+/*bikes*/
+.home-col3{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col3 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+}
+.home-col3 p{
+	float:right;
+	
+
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col3 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col3 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col3 button a{
+	color: #fff;
+}
+.home-col3 button a:hover{
+color:#1d18c4;}
+/*economy cars*/
+.home-col4{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col4 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+}
+.home-col4 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col4 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col4 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col4 button a{
+	color: #fff;
+}
+.home-col4 button a:hover{
+color:#1d18c4;}
+/*semi -lu cars*/
+.home-col5{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col5 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+}
+.home-col5 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col5 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col5 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col5 button a{
+	color: #fff;
+}
+.home-col5 button a:hover{
+color:#1d18c4;}
+/*lu cars*/
+
+.home-col6{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col6 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+}
+.home-col6 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col6 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col6 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col6 button a{
+	color: #fff;
+}
+.home-col6 button a:hover{
+color:#1d18c4;}
+/*vans*/
+.home-col7{
+	margin-top: 70px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col7 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+
+}
+.home-col7 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col7 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col7 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col7 button a{
+	color: #fff;
+}
+.home-col7 button a:hover{
+color:#1d18c4;}
+/*douser*/
+.home-col8{
+	margin-top: 93px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col8 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+
+}
+.home-col8 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col8 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col8 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col8 button a{
+	color: #fff;
+}
+.home-col8 button a:hover{
+color:#1d18c4;}
+/*excavetor*/
+.home-col9{
+	margin-top: 93px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col9 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+
+}
+.home-col9 p{
+	float:right;
+	
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col9 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col9 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col9 button a{
+	color: #fff;
+}
+.home-col9 button a:hover{
+color:#1d18c4;}
+/*trucks*/
+.home-col10{
+	margin-top: 93px;
+	margin-left: 100px;
+	width: 400px;
+	height: 225px;
+	float:left;
+
+}
+.home-col10 h2{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:transparent;
+	text-transform: uppercase;
+	border-radius: 10px;
+	color:rgba(252,183,80);
+
+
+}
+.home-col10 p{
+	float:right;
+
+	color: #eee;
+	margin-top:70px;
+	margin-bottom: 100px;
+}
+.home-col10 img{
+	width: 225px;
+	height: 225px;
+}
+.home-col10 button{
+	margin-top:165px;
+	font-weight: bold;
+	padding:20px;
+	border-style: groove;
+	background-color: #cc1f41;
+	border-radius: 10px;
+}
+.home-col10 button a{
+	color: #fff;
+}
+.home-col10 button a:hover{
+color:#1d18c4;}
+/*3wheels/piageo*/

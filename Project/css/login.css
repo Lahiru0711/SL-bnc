@@ -1,0 +1,105 @@
+.login h1{
+       color:#fff;
+	   width:200 px;
+	   display: block;
+	   margin-left: 400px;
+	   margin-top: 30px;
+}
+
+.reg{
+	width :400px;
+	display: flex;
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0, 0.6); /*transparent color*/
+}
+
+.reg form .user-details{
+	margin-top: 25px;
+}
+
+.reg form .user-details .input-box{
+	margin-bottom: 10px;
+}
+
+.user-details .input-box input{
+	height:35px;
+	width: 100%;
+	outline: none;
+	border-radius: 5px; /* input detail area border radius*/
+	border: 1px solid; /* change border size*/
+	padding-left: 15px;
+	
+}
+
+.input-box .details{
+	color:#fff;
+}
+
+form .button input{
+	height:35px;
+	width:300px;
+	color: #fff;/*registration name color*/
+	background: linear-gradient(135deg,#637383,#374049); /* change background color*/
+	outline: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left:20px;
+}
+.login h1{
+       color:#fff;
+	   width:200 px;
+	   display: block;
+	   margin-left: 400px;
+	   margin-top: 30px;
+}
+
+.reg{
+	width :400px;
+	display: flex;
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0, 0.6); /*transparent color*/
+}
+
+.reg form .user-details{
+	margin-top: 25px;
+}
+
+.reg form .user-details .input-box{
+	margin-bottom: 10px;
+}
+
+.user-details .input-box input{
+	height:35px;
+	width: 100%;
+	outline: none;
+	border-radius: 5px; /* input detail area border radius*/
+	border: 1px solid; /* change border size*/
+	padding-left: 15px;
+	
+}
+
+.input-box .details{
+	color:#fff;
+}
+
+
+form a{
+    color:white !important;
+	margin-left;
+}
+.login_button
+{
+	color:white;
+	text-align:center;
+	margin:5px;
+	padding-bottom:10px;
+	font-size:16px;
+}

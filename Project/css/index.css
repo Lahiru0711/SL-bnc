@@ -1,0 +1,71 @@
+
+.intro{
+	margin: 0 auto;
+	width:970px;
+	margin-top:20px;
+}
+
+.introimage {
+	width:400px;
+	float: left;
+}
+
+.introform{
+	width: 400px;
+	float:left;
+	margin-left:70px;
+	margin-top: 30px;
+	background: rgba(0,0,0, 0.6); /*transparent color*/
+	border-radius: 20px;
+}
+
+.introform h2{
+	margin-top: 25px;
+	margin-left:60px;
+	font-size: 36px;
+	text-transform: uppercase;
+	color: rgba(252,183,80);
+	font-family: monospace;
+	
+}
+
+.title{
+	margin-top: 30px;
+	margin-left:120px;
+	color: #fff;
+}
+
+.introform form{
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-bottom: 40px;
+}
+
+form input{
+	height:30px;
+	width: 50%;
+	outline: none;
+	border-radius: 5px; /* input detail area border radius*/
+	border: 1px solid; /* change border size*/
+	padding-left: 15px;
+	margin-top: 15px;
+	opacity: 0.8;
+
+	
+}
+
+button{
+	height:35px;
+	width:120px;
+	color: #004080;/*book now name color*/
+	background:linear-gradient(135deg,#90ee90,#ffa581);  /* change background color*/
+	outline: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	margin-left: 25px;
+	font-weight: bold;
+}
+
+
+

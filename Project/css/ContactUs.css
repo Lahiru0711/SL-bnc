@@ -1,0 +1,182 @@
+* { margin: 0; padding: 0;} /*remove page margin &padding*/
+
+.wrapper{
+	margin: 0 auto;
+	width:1000px;
+}
+
+
+body{
+	background-image:url(nb.jpg); /* background image*/
+	background-repeat: no-repeat;/*stop the repeat image*/
+	background-attachment: fixed; /*make sure the entire element is always covered*/
+	background-size: cover;  /* backgroung image cover the entire element*/
+}
+
+.logo img{
+	width:200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.home{
+	
+	width: 1000px;
+}
+
+.home nav{
+	
+	background:none; /*home bar balck color background*/
+	text-align: center;  /*text aligh center*/
+	border-radius: 5px; /* home bar corners radius */
+	font-size: 17px;
+} /*home bar*/
+
+.home nav ul{
+	list-style: none;
+} /* remove home bar list style*/
+
+.home nav ul li{
+	display: inline; 
+}/* display home bar inline*/
+.home nav ul li a{
+	color: #fff;
+	text-transform: uppercase; /*use capital letters for home bar*/
+	margin:10px 20px 10px 20px; /*t,l,b,r margins*/
+	display: inline-block; /*display top & bottom bottom*/
+	text-decoration: none; /*remove underline links*/
+	font-family:arial;
+}
+
+.home nav ul li a:hover{
+	color: rgba(252,183,80);
+} /* color inside the home bar link*/
+
+
+
+
+
+/* form */
+
+.form{
+float: left;
+margin: 30px;
+
+color: white;
+
+
+}
+
+.form input, .form textarea{
+
+    padding: 5px;
+    width: 100%;
+    border-radius: 5px;
+    opacity: 0.5;
+
+}
+
+::placeholder{
+    color:black;
+}
+
+
+
+.form button{
+    background-color: rgb(183, 236, 38);
+    color: black;
+    padding: 10px 15px;
+    width: 150px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.form button:hover{
+
+    background-color:rgb(48, 152, 248);
+}
+
+
+
+/* headlines */
+
+
+.Headline{
+
+
+color: cornsilk;
+margin: 30px;
+}
+
+.Headline h1{
+    font-size: 50px;
+}
+
+
+/* contact details */
+
+.contact{
+
+    
+    color: white;
+
+}
+
+.address{
+bottom: 0%;
+right: 45%;
+position: absolute;
+}
+
+
+.con h2{
+    bottom: 15%;
+    right: 30%;
+    position: absolute;
+}
+
+.email{
+    bottom: 0px;
+    right: 25%;
+    position: absolute;
+}
+
+.tele{
+    bottom: 0px;
+    right: 35%;
+    position: absolute;
+}
+
+
+.contact h2{
+    margin: 10px 10px;
+    font-size: 30px;
+    word-spacing: 0.4em;
+}
+
+.social{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+
+}
+
+.social a:hover{
+background-color:crimson;
+}
+
+
+/* footer */
+
+.footer {
+    
+    clear: both;
+    position: relative;
+    width: 100%;
+    background-color: rgb(24, 26, 170);
+    color: white;
+    text-align: center;
+  }

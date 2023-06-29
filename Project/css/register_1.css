@@ -1,0 +1,25 @@
+.b_background{
+	width:320px;
+	background:rgba(0,0,0, 0.6);
+	margin-right: auto;
+	margin-left: auto;
+	justify-content: center;
+	align-items: center;
+	margin-top:40px;
+
+	
+}
+
+button{
+    height:30px;
+	width:300px;
+	color: #fff;/*registration name color*/
+	background: linear-gradient(135deg,#ec7d47,#095e2e); /* change background color*/
+	outline: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	margin-left:10px;
+	
+}
